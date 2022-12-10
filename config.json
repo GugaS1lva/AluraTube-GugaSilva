@@ -1,0 +1,14 @@
+{
+    "name": "Gustavo Silva",
+    "job": "Web Developer",
+    "github": "GugaS1lva",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum Título",
+                "url": "url",
+                "thumb": "thumb"
+            }
+        ]
+    }
+}
